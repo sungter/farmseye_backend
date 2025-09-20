@@ -1,6 +1,6 @@
 # 🔆스마트 축사 PROJECT
 
-## 🎯프로젝트 개요
+### 🎯프로젝트 개요
 
 | **항목** | **내용** |
 | --- | --- |
@@ -11,13 +11,13 @@
 | **개발 기간** | 총 57일 (2025.03.21 ~ 2025.05.16) |
 
 
-## 🖥️개발환경
+### 🖥️개발환경
 - IntelliJ
 - Postman
 - HeidiSQL
 - GitHub
 
-## 🛠️SKILLS
+### 🛠️SKILLS
 - JAVA
 - SPRING BOOT
 - Spring Security
