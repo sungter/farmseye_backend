@@ -9,3 +9,17 @@
 | **개발 인원** | 총 3명 |
 | **담당 역할** | Spring 및 Flask 서버 구축, 로그인 및 회원 관리 기능, 액츄에이터 제어 기능 구현 |
 | **개발 기간** | 총 57일 (2025.03.21 ~ 2025.05.16) |
+
+
+## 🖥️개발환경
+- IntelliJ
+- Postman
+- HeidiSQL
+- GitHub
+
+## 🛠️SKILLS
+- JAVA
+- SPRING BOOT
+- Spring Security
+- MariaDB
+
