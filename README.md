@@ -26,5 +26,5 @@
 - Spring Security
 - MariaDB
 
-### ⚙️아키텍처
+## ⚙️아키텍처
 <img width="1184" height="616" alt="아키텍처" src="https://github.com/user-attachments/assets/acebda9b-dd0e-4f15-a755-4d966b05fcf1" />
