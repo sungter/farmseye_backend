@@ -27,10 +27,17 @@
 - MariaDB
 
 ## ⚙️아키텍처
-<img width="1184" height="616" alt="아키텍처" src="https://github.com/user-attachments/assets/acebda9b-dd0e-4f15-a755-4d966b05fcf1" />
+<div align="center">
+  <img width="1184" height="616" alt="아키텍처" src="https://github.com/user-attachments/assets/acebda9b-dd0e-4f15-a755-4d966b05fcf1" />  
+</div>
+
 
 ## ⚙️ERD
-<img width="838" height="629" alt="ERD" src="https://github.com/user-attachments/assets/b760d1c8-8060-4a47-91cd-a02559d223fe" />
+<div align="center">
+  <img width="838" height="629" alt="ERD" src="https://github.com/user-attachments/assets/b760d1c8-8060-4a47-91cd-a02559d223fe" />
+</div>
 
 ## ⚙️Flow Chart
-<img width="904" height="591" alt="flow chart" src="https://github.com/user-attachments/assets/aee3a9ad-d582-4189-aec0-49d740cf07e5" />
+<div align="center">
+  <img width="904" height="591" alt="flow chart" src="https://github.com/user-attachments/assets/aee3a9ad-d582-4189-aec0-49d740cf07e5" />
+</div>
