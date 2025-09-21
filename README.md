@@ -18,6 +18,7 @@
 - HeidiSQL
 - GitHub
 <img src="https://img.shields.io/badge/IntelliJ?style=for-the-badge&logo=intellijidea&logoColor=%23000000" />
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
 
