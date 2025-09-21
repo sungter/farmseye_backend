@@ -19,7 +19,8 @@
 - GitHub
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/HeidiSQL-78C842?style=for-the-badge&logo=https://yourdomain.com/path/to/heidisql-logo.svg&logoColor=white" />
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=https://www.heidisql.com/favicon.ico&logoColor=white)
+
 
 
 
