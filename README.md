@@ -21,8 +21,6 @@
 </div>
 
 
-
-
 ## 🛠️SKILLS
 <div style="margin: ; text-align: left;" "text-align: left;">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
