@@ -13,14 +13,12 @@
 
 
 ## 🖥️개발환경
-- IntelliJ
-- Postman
-- HeidiSQL
-- GitHub
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/HeidiSQL-78C842?style=for-the-badge&logo=heidisql&logoColor=white" />
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<div style="margin: ; text-align: left;" "text-align: left;">
+          <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+          <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+          <img src="https://img.shields.io/badge/HeidiSQL-78C842?style=for-the-badge&logo=heidisql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</div>
 
 
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
