@@ -18,8 +18,8 @@
 - HeidiSQL
 - GitHub
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
-
+<img src="https://img.shields.io/badge/postman?style=for-the-badge&logo=postman&logoColor=%23FF6C37" />
+<img src="" />
 
 ## 🛠️SKILLS
 - JAVA
